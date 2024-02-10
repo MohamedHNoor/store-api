@@ -26,7 +26,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd <folder>
-  git clone https://github.com/MohamedHNoor/task-manager-api.git
+  git clone https://github.com/MohamedHNoor/store-api.git
 ```
 
 ### Install
